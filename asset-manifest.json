@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Weather-app/static/css/main.d84594f6.chunk.css",
-    "main.js": "/Weather-app/static/js/main.37faa1b6.chunk.js",
-    "main.js.map": "/Weather-app/static/js/main.37faa1b6.chunk.js.map",
-    "runtime-main.js": "/Weather-app/static/js/runtime-main.6976781d.js",
-    "runtime-main.js.map": "/Weather-app/static/js/runtime-main.6976781d.js.map",
-    "static/js/2.926cf032.chunk.js": "/Weather-app/static/js/2.926cf032.chunk.js",
-    "static/js/2.926cf032.chunk.js.map": "/Weather-app/static/js/2.926cf032.chunk.js.map",
-    "static/js/3.e0c170bc.chunk.js": "/Weather-app/static/js/3.e0c170bc.chunk.js",
-    "static/js/3.e0c170bc.chunk.js.map": "/Weather-app/static/js/3.e0c170bc.chunk.js.map",
-    "index.html": "/Weather-app/index.html",
-    "static/css/main.d84594f6.chunk.css.map": "/Weather-app/static/css/main.d84594f6.chunk.css.map",
-    "static/js/2.926cf032.chunk.js.LICENSE.txt": "/Weather-app/static/js/2.926cf032.chunk.js.LICENSE.txt"
+    "main.css": "/Weather-app/index.html/static/css/main.d84594f6.chunk.css",
+    "main.js": "/Weather-app/index.html/static/js/main.37faa1b6.chunk.js",
+    "main.js.map": "/Weather-app/index.html/static/js/main.37faa1b6.chunk.js.map",
+    "runtime-main.js": "/Weather-app/index.html/static/js/runtime-main.703b5955.js",
+    "runtime-main.js.map": "/Weather-app/index.html/static/js/runtime-main.703b5955.js.map",
+    "static/js/2.926cf032.chunk.js": "/Weather-app/index.html/static/js/2.926cf032.chunk.js",
+    "static/js/2.926cf032.chunk.js.map": "/Weather-app/index.html/static/js/2.926cf032.chunk.js.map",
+    "static/js/3.e0c170bc.chunk.js": "/Weather-app/index.html/static/js/3.e0c170bc.chunk.js",
+    "static/js/3.e0c170bc.chunk.js.map": "/Weather-app/index.html/static/js/3.e0c170bc.chunk.js.map",
+    "index.html": "/Weather-app/index.html/index.html",
+    "static/css/main.d84594f6.chunk.css.map": "/Weather-app/index.html/static/css/main.d84594f6.chunk.css.map",
+    "static/js/2.926cf032.chunk.js.LICENSE.txt": "/Weather-app/index.html/static/js/2.926cf032.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6976781d.js",
+    "static/js/runtime-main.703b5955.js",
     "static/js/2.926cf032.chunk.js",
     "static/css/main.d84594f6.chunk.css",
     "static/js/main.37faa1b6.chunk.js"
