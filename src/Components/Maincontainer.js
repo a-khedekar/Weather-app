@@ -7,7 +7,7 @@ import "../App.css"
 function Maincontainer() {
 
     const [weatherData, setWeatherData] = useState({});
-    console.log('state', weatherData);
+
     const [cityName, setCityName] = useState("");
 
     const cityHandler = (e) => {

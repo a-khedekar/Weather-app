@@ -21,8 +21,8 @@
     
 }
 .maindiv{
-  height: 200px;
-  width: 300px;
+  height: auto;
+  width: 100%;
   background: rgb(239 238 207 / 39%);
 }
 .rainy{
@@ -84,8 +84,8 @@
 
 }
 .cityCss{
-  font-weight: 300;
-    font-size: 2.25em;
+  font-weight: 500;
+    font-size: 2.25rem;
     -webkit-animation: up 2s cubic-bezier(.39, 0, .38, 1);
 }
 .mainCss{
@@ -93,7 +93,7 @@
     margin-right: 33px;
     color: #777;
     font-weight: 400;
-    font-size: 1em;
+    font-size: 1rem;
     -webkit-animation: up 2s cubic-bezier(.39, 0, .38, 1) .1s;
     
 ;
@@ -102,7 +102,7 @@
 .imgCss{
     width: 120px;
     height: auto;
-    
+    padding-top: 30px;
 }
 
 .searchContainer{
@@ -129,8 +129,8 @@ width: 23%;
     left: 50%;
     width:310px;
     height:200px;
-    margin-top: -9em; /*set to a negative number 1/2 of your height*/
-    margin-left: -11em; /*set to a negative number 1/2 of your width*/
+    margin-top: -9rem; /*set to a negative number 1/2 of your height*/
+    margin-left: -11rem; /*set to a negative number 1/2 of your width*/
     
 }
 
